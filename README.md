@@ -1,3 +1,7 @@
+# ADDED FUNCTIONALITY FROM THIS REPO
+With the update provided in this repo moveit is started with integration of the kinect sensor. This allows for collision avoidance of the arms (and every movement that is planned with moveit).
+
+
 AMIGO MoveIt config
 ===================
 This package keeps the AMIGO configuration files for the ROS MoveIt stack.
